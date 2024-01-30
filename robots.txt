@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://combile.github.io/sitemap.txt
+Sitemap: https://combile.github.io/es/sitemap.txt
+Sitemap: https://combile.github.io/pt/sitemap.txt
+Sitemap: https://combile.github.io/ja/sitemap.txt
